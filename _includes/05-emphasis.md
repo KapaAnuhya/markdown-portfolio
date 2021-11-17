@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+✨*I am Anu*
+✨**I am a Graduate**
+✨*I like to work with Linux Os*
+✨**I know basic C programming**
